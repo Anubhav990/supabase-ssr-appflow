@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# supabase-ssr-appflow
+A lightweight Next.js + Supabase SSR boilerplate built for secure server-side authentication and user management (replacement for deprecated auth-helpers). Implements server-rendered sessions, role-based access control, CSRF mitigation, and common auth flows (signup, signin, magic links, OAuth) so you can ship a safe web app fast.
+>>>>>>> 7d24537009ecf4031013417c7e5e1b5e1c78807d
